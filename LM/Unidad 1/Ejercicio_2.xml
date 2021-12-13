@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - https://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Wikiloc - Subida al pico Tiñosa</name>
+    <link href="https://www.wikiloc.com/hiking-trails/subida-al-pico-tinosa-38492323">
+      <text>Subida al pico Tiñosa on Wikiloc</text>
+    </link>
+    <time>2019-07-08T12:33:37Z</time>
+  </metadata>
+  <trk>
+    <name>Subida al pico Tiñosa</name>
+    <cmt></cmt>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="37.395970" lon="-4.249173">
+        <ele>939.574</ele>
+        <time>2019-07-08T07:00:28Z</time>
+      </trkpt>
+      <trkpt lat="37.395302" lon="-4.249683">
+        <ele>934.256</ele>
+        <time>2019-07-08T07:02:31Z</time>
+      </trkpt>
+      <trkpt lat="37.392566" lon="-4.250514">
+        <ele>963.921</ele>
+        <time>2019-07-08T07:06:45Z</time>
+      </trkpt>
+      <trkpt lat="37.390825" lon="-4.251970">
+        <ele>998.808</ele>
+        <time>2019-07-08T07:10:14Z</time>
+      </trkpt>
+      <trkpt lat="37.389215" lon="-4.252798">
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

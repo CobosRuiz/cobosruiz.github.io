@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+    <h1>Ejemplo formulario</h1>
+    <form action= "mailto:a21coruiv@gmail.com" method="post" name="formulario1">
+        <p>
+        <label>Nombre:
+        <input type="text" name="nombre" placeholder="Nombre" maxlength="10"/>
+        </label>
+        </p>
+        <p>
+        <label>Fecha de nacimiento:
+        <input type="date" name="nacimiento" placeholder="Nacimiento"/>
+        </label>
+        </p>
+        <p>
+        <label>Número de horas:
+        <input type="number" name="nhoras" placeholder="horas" title="Horas diarias videojuegos"/>
+        </label>
+        </p>
+        <p>
+        <label>Email:
+        <input type="email" name="email" placeholder="email"/>
+        </label>
+        </p>
+
+
+        <p>
+        <label> Videoconsola:
+        <input type="checkbox" name="vc1"  value="PS"/>Play Station
+        <input type="checkbox" name="vc2"  value="XB"/>Xbox
+        <input type="checkbox" name="vc3"  value="NT"/>Nintendo
+        <input type="checkbox" name="vc4"  value="PC"/>PC
+        </label>
+        </p>
+
+        <p>
+        <label> Elige juego preferido:
+        <input type="radio" name="vjp"  value="lol"/>LOL
+        <input type="radio" name="vjp"  value="for"/>Fornite
+        <input type="radio" name="vjp"  value="dia"/>Diablo
+        <input type="radio" name="vjp"  value="pok"/>Pokémon
+        </label>
+        </p>
+
+        <textarea name="descripción" cols="30" rows="10"></textarea>
+
+        <p><select name="grupos" id="">
+            <option value="1">1ºDAW</option>
+            <option value="2">2ºDAW</option>
+            <option value="3">1ºASIR</option>
+            <option value="4">2ºASIR</option>
+        </select></p>
+
+        <p>
+        <input type="submit" name="submit" value="Enviar"/>
+        </p>
+    </form>
+
+</body>
+</html>
