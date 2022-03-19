@@ -1,0 +1,17 @@
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+#uno {
+    border: 1px solid blue;
+    margin: 10px;
+    padding: 10px;
+    color: purple;
+    font-size: large;
+}
+
+a {
+    text-decoration: none;
+}

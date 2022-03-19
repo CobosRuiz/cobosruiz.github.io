@@ -1,0 +1,26 @@
+body    {
+    width: 500px;
+    margin: 0 auto;
+}
+
+h1 {
+    position: fixed;
+    top: 0;
+
+}
+
+p:nth-of-type(1) {
+    margin-top: 60px;
+
+}
+
+div {
+    position: sticky;
+    top: 60px;
+    left: 30px;
+    padding: 10px;
+    margin: 10px;
+    background: rgba(255, 84, 104, .3);
+    border: 2px solid rgba(255, 84, 104);
+    border-radius: 5px;
+}

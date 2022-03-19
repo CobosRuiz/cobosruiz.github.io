@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: grey;
+}
+
+@media (max-width:1024px) {
+    body{
+        background-color: gold;
+    }
+}
+@media (max-width:920px) {
+    body{
+        background-color: orangered;
+    }
+}
+
+@media (max-width:828px) {
+    body{
+        background-color: blue;
+    }
+}
+
+@media (max-width:620px) {
+    body{
+        background-color: green;
+    }
+}
+
+

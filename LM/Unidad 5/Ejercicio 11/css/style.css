@@ -1,0 +1,40 @@
+main {
+    margin: 10px;
+    padding: calc();
+    border: 1px solid black;
+    color: aliceblue;
+    background-color: gray;
+    width: 900px;
+}
+
+
+.header {
+    margin: 5px;
+    background-color: brown;
+}
+
+.hero {
+    margin: 5px;
+    background-color: green;
+}
+
+.flex-container {
+    display: flex;
+    width: 800px;
+}
+.content {
+    margin: 5px;
+    background-color: teal;
+    flex: auto;
+}
+
+.aside {
+    margin: 5px;
+    background-color: blueviolet;
+    flex: 320px;
+}
+
+.footer {
+    margin: 5px;
+    background-color: crimson;
+}

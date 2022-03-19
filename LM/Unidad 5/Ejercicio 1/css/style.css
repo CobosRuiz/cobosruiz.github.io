@@ -1,0 +1,17 @@
+body {
+    width: 500px;
+    margin: 0%;
+}
+
+p {
+    background-color: aqua;
+    border: solid blue 3px;
+    margin: 10px;
+    padding: 10px;
+}
+
+p span {
+    background-color: red;
+    border: 1px solid black;
+}
+
