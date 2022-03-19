@@ -1,0 +1,24 @@
+.ejemplo {
+    font-family: 'Federicka the Great', cursive;
+    font-size: 7vw;
+}
+
+h1 {
+    text-align: center;
+}
+
+a[name="romano"] {
+    text-decoration: none;
+}
+
+h1[name="ej4"] {
+    text-transform: uppercase;
+}
+
+p[name="iniciales"] {
+    text-transform: capitalize;
+}
+
+p[name="sangria"] {
+    text-indent: 20px;
+}

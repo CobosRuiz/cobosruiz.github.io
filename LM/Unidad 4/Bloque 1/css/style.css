@@ -1,0 +1,17 @@
+p[name="p1"] {
+    background-color: gray;
+}
+
+p[name="p2"] {
+    width: 200px;
+    border: 1px solid gray;
+    padding: 25px;
+    margin: 25px;
+}
+
+p[name="p3"] {
+    width: 200px;
+    border: 25px solid gray;
+    padding: 25px;
+    margin: 25px;
+}

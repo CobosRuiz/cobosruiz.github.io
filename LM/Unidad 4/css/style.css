@@ -1,0 +1,195 @@
+body {
+    margin: 0;
+    padding: 0;
+    font: normal 13px arial, helvetica, sans-serif;
+    background: #000;
+    color: aliceblue;
+    text-align: center;
+    }
+
+    .icon {
+        width: 80px;
+        height: 80px;
+        margin-top: 10px;
+    }
+    
+    .con {
+        text-align: center;
+    }
+    
+    
+    .cord {
+        text-align: center;
+    }
+    
+    .par {
+        margin: 70px;}
+    
+    
+    .text {
+        text-align: center;
+        margin: 30px;
+    }
+    
+    .textofalso {
+        text-align: center;
+        margin: 30px;
+        color: #000;
+    }
+    
+    .cordobauno {
+        text-align: center;
+    }
+    
+    .cordobados {
+        text-align: center;
+    }
+    
+        
+        #menu {
+        width: 1900px;
+        margin: 0 auto;
+        
+        }
+        
+        #menu ul {
+        list-style: none;
+        margin: 0;
+        }
+        
+        #menu ul li {
+        margin: 0;
+        float: left;
+        }
+        
+        #menu ul li a {
+        margin:0 2px;
+        width: 138px;
+        font-weight:bold;
+        font-size:12px;
+        text-align: center;
+        line-height: 44px;
+        display:block;
+        text-decoration: none;
+        }
+        
+        #menu ul li a:hover {
+        color:#000;
+        }
+        
+        #item-uno a {
+        border-bottom:5px solid #f00;
+        color: #f00
+        }
+        
+        #item-dos a {
+        border-bottom:5px solid #f80;
+        color: #f80;
+        }
+        
+        #item-tres a {
+        border-bottom:5px solid #ff0;
+        color: #ff0;
+        }
+        
+        #item-cuatro a {
+        border-bottom:5px solid #8f0;
+        color: #8f0;
+        }
+        
+        #item-cinco a {
+        border-bottom:5px solid #0ff;
+        color: #0ff;
+        }
+        
+        #item-seis a {
+        border-bottom:5px solid #08f;
+        color: #08f;
+        }
+
+        #item-siete a {
+            border-bottom:5px solid rgb(146, 63, 172);
+            color: rgb(146, 63, 172);
+            }
+        
+        #item-ocho a {
+            border-bottom:5px solid rgb(241, 123, 179);
+            color: rgb(241, 123, 179);
+        }
+        
+        #item-nueve a {
+            border-bottom:5px solid rgb(241, 123, 123);
+            color: rgb(241, 123, 123);
+        }
+
+        #item-diez a {
+            border-bottom:5px solid rgb(255, 77, 77);
+            color: rgb(255, 77, 77);
+        }
+        
+        #item-once a {
+            border-bottom:5px solid rgb(241, 239, 123);
+            color: rgb(241, 239, 123);
+        }
+
+        #item-doce a {
+            border-bottom:5px solid rgb(100, 196, 113);
+            color: rgb(100, 196, 113);
+        }
+
+        #item-trece a {
+            border-bottom:5px solid rgb(61, 63, 148);
+            color: rgb(61, 63, 148);
+        }
+        
+        #item-uno a:hover {
+        background:#f00;
+        }
+        
+        #item-dos a:hover {
+        background:#f80;
+        }
+        
+        #item-tres a:hover {
+        background:#ff0;
+        }
+        
+        #item-cuatro a:hover {
+        background:#8f0;
+        }
+        
+        #item-cinco a:hover {
+        background:#0ff;
+        }
+        
+        #item-seis a:hover {
+        background:#08f;
+        }
+
+        #item-siete a:hover {
+            background:rgb(146, 63, 172);
+        }
+
+        #item-ocho a:hover {
+            background:rgb(241, 123, 179);
+        }
+
+        #item-nueve a:hover {
+            background:rgb(241, 123, 123);
+        }
+
+        #item-diez a:hover {
+            background:rgb(255, 77, 77);
+        }
+
+        #item-once a:hover {
+            background:rgb(241, 239, 123);
+        }
+
+        #item-doce a:hover {
+            background:rgb(100, 196, 113);
+        }
+
+        #item-trece a:hover {
+            background:rgb(61, 63, 148);
+        }
