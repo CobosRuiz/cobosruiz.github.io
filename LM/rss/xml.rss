@@ -3,6 +3,7 @@
     <channel>
         <title>Página principal</title>
         <link>https://cobosruiz.github.io/LM/index.html</link>
+        <description>Página principal </description>
         <item>
             <item>
                 <title>Ejercicio 1 (HTML)</title>
@@ -18,16 +19,6 @@
                 <title>Ejercicio 3 (HTML)</title>
                 <link>https://cobosruiz.github.io/LM/Unidad%203/Ejercicio_3.html</link>
                 <description>Ejercicio 3 - Unidad 3</description>
-            </item>
-            <item>
-                <title>Ejercicio 4</title>
-                <link></link>
-                <description>Descripción de la noticia 2</description>
-            </item>
-            <item>
-                <title>Ejercicio 2</title>
-                <link></link>
-                <description>Descripción de la noticia 2</description>
             </item>
         </item>
     </channel>
