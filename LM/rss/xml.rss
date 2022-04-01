@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
+        <title>Página principal</title>
+        <link>https://cobosruiz.github.io/LM/index.html</link>
         <item>
-            <title>Ejercicios HTML</title>
-            <link>https://github.com/CobosRuiz/cobosruiz.github.io</link>
-            <description></description>
             <item>
-                <title>Ejercicio 1</title>
-                <link></link>
-                <description>Descripción de la noticia 2</description>
+                <title>Ejercicio 1 (HTML)</title>
+                <link>https://cobosruiz.github.io/LM/Unidad%204/Ejercicio%203/index.html</link>
+                <description>Ejercicio 3 - Unidad 4</description>
             </item>
             <item>
-                <title>Ejercicio 3</title>
+                <title>Ejercicio 2 (HTML)</title>
+                <link>https://cobosruiz.github.io/LM/Unidad%202/Ejercicio_4.html</link>
+                <description>Ejercicio 4 - Unidad 2</description>
+            </item>
+            <item>
+                <title>Ejercicio 3 (HTML)</title>
                 <link>https://cobosruiz.github.io/LM/Unidad%203/Ejercicio_3.html</link>
-                <description>Descripción de la noticia 2</description>
+                <description>Ejercicio 3 - Unidad 3</description>
             </item>
             <item>
                 <title>Ejercicio 4</title>
