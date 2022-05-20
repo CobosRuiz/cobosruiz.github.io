@@ -131,6 +131,11 @@ body {
                     color: rgb(172, 63, 114);
                     }
         
+        #item-nueve a {
+            border-bottom:5px solid rgb(221, 109, 109);
+            color: rgb(221, 109, 109);
+            }
+            
         #item-uno a:hover {
         background:#f00;
         }
@@ -165,6 +170,10 @@ body {
 
         #item-nueve a:hover {
             background:rgb(172, 63, 114);
+        }
+
+        #item-diez a:hover {
+            background:rgb(221, 109, 109);
         }
 
         #rss {
