@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE alumno SYSTEM "ej4xml.dtd">
+<alumno>
+    <nombre>Mafalda</nombre>
+    <mayor_de_edad/>
+    <ciudad>Cordoba</ciudad>
+</alumno>

@@ -1,0 +1,5 @@
+<!ELEMENT texto (titulo, párrafo+, http)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT párrafo (#PCDATA | abreviatura)*>
+<!ELEMENT abreviatura (#PCDATA)>
+<!ELEMENT http (#PCDATA)>

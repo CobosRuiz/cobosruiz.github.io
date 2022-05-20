@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="ejercicio 4.xsl" type="text/xsl"?>
+<curriculum_vitae>
+    <datos_personales>
+        <nombre>Iván</nombre>
+        <apellidos>Cobos Ruiz</apellidos>
+        <fecha_nacimiento>08/11/2003</fecha_nacimiento>
+        <foto>img.jpg</foto>
+        <blog_personal></blog_personal>
+        <redes>
+            <rrss>
+                <logo>twitter.png</logo>
+                <nombre>twitter</nombre>
+                <enlace></enlace>
+            </rrss>
+            <rrss>
+                <logo>instagram.png</logo>
+                <nombre>Instagram</nombre>
+                <enlace></enlace>
+            </rrss>
+            <rrss>
+                <logo>linkedit.png</logo>
+                <nombre>Linkedit</nombre>
+                <enlace></enlace>
+            </rrss>
+        </redes>
+    </datos_personales>
+    <formación_academica>
+        <títulos>
+            <titulo>
+                <nombre>Educación Secundaria Obligatoria</nombre>
+                <fecha_obtencion>2019</fecha_obtencion>
+            </titulo>
+            <titulo>
+                <nombre>Bachiller</nombre>
+                <fecha_obtencion>2021</fecha_obtencion>
+            </titulo>
+        </títulos>
+        <idiomas>
+            <idioma>
+                <nombre></nombre>
+                <niveles>
+                    <leer></leer>
+                    <escribir></escribir>
+                    <hablar></hablar>
+                </niveles>
+                <academia_curso></academia_curso>
+            </idioma>
+            <idioma>
+                <nombre></nombre>
+                <niveles>
+                    <leer></leer>
+                    <escribir></escribir>
+                    <hablar></hablar>
+                </niveles>
+                <academia_curso></academia_curso>
+            </idioma>
+        </idiomas>
+    </formación_academica>
+    <experiencia_laboral>
+        <trabajos>
+            <trabajo fecha_ini="01/04/2022" fecha_fin="29/04/2022">
+                <nombre>Portero del Real Madrid</nombre>
+                <descripcion>Portero de la puerta 55</descripcion>
+            </trabajo>
+            <trabajo fecha_ini="01/04/2022">
+                <nombre>Jardinero</nombre>
+                <descripcion>Jardinero del campo del Real de Madrid</descripcion>
+            </trabajo>
+        </trabajos>
+    </experiencia_laboral>
+</curriculum_vitae>

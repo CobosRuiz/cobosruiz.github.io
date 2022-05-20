@@ -122,6 +122,15 @@ body {
             color: rgb(146, 63, 172);
             }
         
+        #item-ocho a {
+                border-bottom:5px solid rgb(63, 123, 172);
+                color: rgb(63, 123, 172);
+                }
+        #item-nueve a {
+                    border-bottom:5px solid rgb(172, 63, 114);
+                    color: rgb(172, 63, 114);
+                    }
+        
         #item-uno a:hover {
         background:#f00;
         }
@@ -148,6 +157,14 @@ body {
 
         #item-siete a:hover {
             background:rgb(146, 63, 172);
+        }
+
+        #item-ocho a:hover {
+            background:rgb(63, 123, 172);
+        }
+
+        #item-nueve a:hover {
+            background:rgb(172, 63, 114);
         }
 
         #rss {

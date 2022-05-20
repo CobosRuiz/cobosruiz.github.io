@@ -1,0 +1,12 @@
+<!ELEMENT personas (profesor| alumno)*>
+
+<!ELEMENT profesor (nombre, asignaturas)>
+<!ELEMENT asignaturas (asignatura*)>
+<!ATTLIST asignatura cod CDATA #REQUIRED>
+<!ELEMENT asignatura (#PCDATA)>
+
+<!ELEMENT alumno (nombre, apellidos?, curso, ciudad?)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT apellidos (#PCDATA)>
+<!ELEMENT curso (#PCDATA)>
+<!ELEMENT ciudad (#PCDATA)>
